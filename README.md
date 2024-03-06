@@ -12,3 +12,6 @@ https://github.com/CANntyield/taro-plugin-compiler-optimization
 npm官网：
 https://www.npmjs.com/package/taro-plugin-compiler-optimization
 ![image](https://github.com/Jun-K-code/Taro-Document-Issues/assets/55284465/3310191a-40c9-4f20-8800-def4d79dfcb3)
+
+代码运行后的结果：
+![image](https://github.com/Jun-K-code/Taro-Document-Issues/assets/55284465/9ce2cb12-aaef-479d-b6cf-d64a6ec81d6f)
